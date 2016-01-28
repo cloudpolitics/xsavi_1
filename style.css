@@ -1,0 +1,61 @@
+body {
+  font-family: "Helvetica", sans-serif;
+  margin: 25px;
+}
+
+h1 {
+  color: hotpink;
+  background-color: darkcyan;
+  padding: 10px;
+}
+
+h1:hover {
+  color: darkcyan;
+  background-color: hotpink;
+  cursor: pointer;
+}
+
+h2 {
+  color: white;
+  background-color: black;
+  padding: 10px;
+}
+
+h2:hover {
+  color: black;
+  background-color: white;
+  cursor: pointer;
+}
+
+div {
+  width: 49%;
+  float: left;
+  margin-top: -20px;
+}
+
+#assignment_1 {
+  margin-right: 2%;
+}
+
+ul {
+  background-color: coral;
+  color:white;
+  padding: 5px;
+}
+
+li {
+  margin-top: 5px;
+  padding: 3px;
+  margin-left: 20px;
+}
+
+li:hover {
+  color: coral;
+  background-color: white;
+  cursor: pointer;
+}
+
+img {
+  width: 100px;
+  margin-right: 10px;
+}
